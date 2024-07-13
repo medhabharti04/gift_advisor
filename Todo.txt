@@ -1,0 +1,33 @@
+---------------
+category
+---------------
+Gender
+	male
+	female
+
+Age
+	0-5 	baby
+	5-18 	young
+	18-40 	middle
+	0-40 	old
+
+
+
+
+the index page post method was not enabling me to send the post request parameter values, matched parameter name with exact case 
+
+got results on webpage display the results on site - used render teamplate
+
+Skills
+
+Full Stack Web Development
+Python
+Flask
+
+innovative solution
+- we have to choose the items that we want to buy and the recommendation system requires data to predict our next possible purchase.
+But what if we are new to the website
+Or if we want to purchase for some other person. but the recommendation will still be provided based on our previous purchase.
+this method helps the users to buy items without choosing much what to buy
+the recommendation is based on the person demographics which is not biased toward recommendation system
+
